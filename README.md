@@ -1,7 +1,6 @@
-# tech-rat-code-standards
-Official guidelines and standards for the languages used in our official applications.
+# Tech Rat Code Standards and Guidelines
+Here you will find rules we expect all contributing developers to follow, regardless of who they are. Any PR not following these rules will be denied. No exceptions!
 
-
-
+# The Rules
 ### Rule 1: NO SINGLE CHAR LENGTH VARIABLES
-### Rule 2: Don't be a dick.
+### Rule 2: "Don't be a asshat." _-DerryBear_
