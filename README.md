@@ -3,4 +3,4 @@ Here you will find rules we expect all contributing developers to follow, regard
 
 # The Rules
 ### Rule 1: NO SINGLE CHAR LENGTH VARIABLES
-### Rule 2: "Don't be a asshat." _-DerryBear_
+### Rule 2: _"Don't be a asshat."_ -DerryBear
