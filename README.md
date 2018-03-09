@@ -4,10 +4,7 @@ Here you will find rules we expect all contributing developers to follow, regard
 # The Rules
 ### Rule 1: NO SINGLE CHAR LENGTH VARIABLES
 ### Rule 2: _"Don't be an asshat."_ -DerryBear
-### Rule 3: If one exists, read and follow the associated language.md file, located in this repo, for the project you are contributing to
-### Rule 4: If one exists, read and follow the CONTRIBUTING.md of the repository you're contributing to.
-
-
-Our minimum language requirements are listed in the associated LANGUAGE.md files, these rules apply unless 
-they are **explicitly** overwritten by the project's CONTRIBUTING.md
+### Rule 3: If one exists, read and follow the CONTRIBUTING.md of the repository you're contributing to.
+### Rule 4: If one exists, read and follow the associated LANGUAGE.md file, located in this repo, for the project you are contributing to
+### Rule 5: Requirements listed in the associated LANGUAGE.md apply unless they are **explicitly overwritten** by a project's CONTRUBUTING.md.
 
