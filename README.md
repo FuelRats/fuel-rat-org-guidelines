@@ -8,8 +8,9 @@ Here you will find rules we expect all contributing developers to follow, regard
 ### Rule 4: If one exists, read and follow the CONTRIBUTING.md of the repository you're contributing to.
 
 
-Our minimum language requirements are listed below, they apply unless they are 
-**explicitly** overwritten by the project's CONTRIBUTING.md
+Our minimum language requirements are listed below, these rules apply unless 
+they are **explicitly** overwritten by the project's CONTRIBUTING.md
+
 #Python specific rules
 ###1: NO SINGLE CHAR LENGTH VARIABLES
 
