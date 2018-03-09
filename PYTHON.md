@@ -1,5 +1,5 @@
 Our minimum python requirements are listed below, they apply unless they are 
-**explicitly** overwritten by the projects CONTRIBUTING.md
+**explicitly** overwritten by the project's CONTRIBUTING.md
 
 ###1. NO SINGLE CHAR LENGTH VARIABLES
 
