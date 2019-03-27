@@ -37,4 +37,4 @@ The scope of this document applies to everyone within the organization's project
 
 Violations of the code of conduct erodes the trust we have built with our community.  Additionally, failing to uphold the code of conduct risks your participation.
 
-Any unwanted or unacceptable behavior should be reported by c
+Any unwanted or unacceptable behavior should be reported by contacting the moderation team at ops@fuelrats.com
